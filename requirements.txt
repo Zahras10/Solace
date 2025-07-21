@@ -1,0 +1,14 @@
+streamlit-lottie
+matplotlib
+streamlit
+sentence-transformers
+mistralai
+pandas
+numpy
+scikit-learn
+xgboost
+optuna
+Pillow
+plotly
+XlsxWriter>=3.0.0
+streamlit-aggrid
