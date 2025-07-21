@@ -55,9 +55,9 @@ streamlit run Home.py
 
 ## 👩‍💻 Created By
 
-**Anushka Katiyar**  
-🎓 MS ECE (ML/DS) @ University of Southern California  
-🔗 [LinkedIn](https://www.linkedin.com/in/anushka-katiyar12/) | [GitHub](https://github.com/AnushkaKatiyar)
+**Zahra Shergadwala**  
+🎓 MS CS @ University of Southern California  
+🔗 [LinkedIn](https://www.linkedin.com/in/zahra-shergadwala/) | [GitHub](https://github.com/Zahras10/)
 
 ---
 
